@@ -3,6 +3,7 @@ import { site } from "@/app/data/site";
 const items = [
   { href: "#what", label: "What It Is" },
   { href: "#framework", label: "The Framework" },
+  { href: "#method", label: "The Method" },
   { href: "#who", label: "Who It's For" },
 ];
 

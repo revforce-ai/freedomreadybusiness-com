@@ -12,17 +12,17 @@ export function Hero() {
             A framework by Kurt Baker, CFP® · CEPA® · AIF®
           </p>
           <h1
-            className="font-serif text-[2.75rem] sm:text-6xl md:text-7xl lg:text-[84px] leading-[0.98] tracking-[-0.025em] text-ink mx-auto max-w-4xl"
+            className="font-serif text-[2.75rem] sm:text-6xl md:text-7xl lg:text-[80px] leading-[0.98] tracking-[-0.025em] text-ink mx-auto max-w-4xl"
             style={{ fontVariationSettings: '"opsz" 96, "SOFT" 30' }}
           >
-            Build a business that gives you{" "}
-            <span className="italic text-accent">freedom.</span>
+            Turn your business into freedom —{" "}
+            <span className="italic text-accent">not another job.</span>
           </h1>
           <p className="mt-8 text-lg md:text-xl text-ink-muted leading-relaxed max-w-2xl mx-auto">
             Most owners don&apos;t own a business — they own a job that owns them.
-            A <strong className="text-ink font-semibold">Freedom Ready Business</strong>{" "}
-            creates significant value, runs without you, and is ready to scale,
-            sell, or pass on — on your terms.
+            The <strong className="text-ink font-semibold">R.E.A.D.Y. Framework</strong>{" "}
+            builds a company with real income, time, and a true exit plan — so you
+            have options, not obligations.
           </p>
           <div className="mt-10 flex flex-col sm:flex-row gap-3 justify-center">
             <a

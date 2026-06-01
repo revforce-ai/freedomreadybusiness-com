@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     template: "%s · Freedom Ready Business",
   },
   description:
-    "Freedom Ready Business is Kurt Baker's framework for building a company that creates significant value, runs without you, and is ready to scale, sell, or pass on — on your terms.",
+    "Freedom Ready Business is Kurt Baker's R.E.A.D.Y. Framework — built on a CEPA foundation — for building a company with real income, time, and a true exit plan, so you have options, not obligations.",
   keywords: [
     "Freedom Ready Business",
     "exit planning",

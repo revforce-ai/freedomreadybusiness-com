@@ -6,28 +6,57 @@ export const site = {
   ghlChatWidgetId: "674f4b44f9c66bff51f57f57",
 };
 
-// The four pillars of a Freedom Ready Business.
-// (Framing derived from Kurt's positioning — refine wording with Kurt.)
+// The R.E.A.D.Y. Framework™ — the public 5 pillars of a Freedom Ready Business.
+// Built on the CEPA foundation, integrated with CFP + AIF.
 export const pillars = [
   {
-    num: "01",
-    title: "Significant Value",
-    body: "A business worth more — to more buyers. We build the financial clarity, recurring revenue, and clean operations that make your company genuinely valuable, not just busy.",
+    letter: "R",
+    title: "Revenue Resilience",
+    body: "Predictable, recurring income that doesn't depend on you. We build the financial clarity and revenue durability that make the business strong whether you're in the chair or not.",
   },
   {
-    num: "02",
-    title: "Owner Independence",
-    body: "A business that runs and grows without you in every decision. Systems, team, and leadership that free you from being the bottleneck — so the company works whether you're there or not.",
+    letter: "E",
+    title: "Enterprise Value",
+    body: "A business that's sellable, not just profitable — built on the Four C's of value: human, customer, structural, and social capital. Worth more, to more buyers.",
   },
   {
-    num: "03",
-    title: "Exit Optionality",
-    body: "Ready to scale, sell, or pass on — on your timeline, not forced by circumstance. When you're Freedom Ready, every door is open and you choose which one to walk through.",
+    letter: "A",
+    title: "Autonomy",
+    body: "A company that runs and grows without you in every decision. Systems, team, and leadership that take you out of the bottleneck and give you your time back.",
   },
   {
-    num: "04",
-    title: "Personal Freedom",
-    body: "Time, money, and impact aligned with the life you actually want. The whole point isn't just a better business — it's a better life because of the business.",
+    letter: "D",
+    title: "De-Risked & Diversified",
+    body: "The five threats covered — death, disability, divorce, distress, disagreement — plus tax strategy, liquidity, and disciplined investing so your wealth isn't trapped in one asset.",
+  },
+  {
+    letter: "Y",
+    title: "Your Exit, Your Terms",
+    body: "Ready to scale, sell, recapitalize, or step back — on your timeline, never forced by circumstance. A Master Plan that turns options into freedom.",
+  },
+];
+
+// The APEX Method™ — the 4-step delivery process (the "how").
+export const apexSteps = [
+  {
+    letter: "A",
+    title: "Assess",
+    body: "Score your enterprise value, owner-dependency, and readiness. Establish your Freedom Score™ baseline.",
+  },
+  {
+    letter: "P",
+    title: "Protect",
+    body: "Shore up the foundation — financial infrastructure, tax, liquidity, and the five risks — before you build.",
+  },
+  {
+    letter: "E",
+    title: "Elevate",
+    body: "Accelerate enterprise value: strengthen the Four C's of capital, recurring revenue, and owner-free systems.",
+  },
+  {
+    letter: "X",
+    title: "eXit-Ready",
+    body: "Build the Master Plan that gives you options — and the personal financial plan that makes any of them mean freedom.",
   },
 ];
 

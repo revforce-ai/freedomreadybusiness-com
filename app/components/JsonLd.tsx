@@ -21,12 +21,12 @@ export function JsonLd() {
       },
       {
         "@type": "Service",
-        name: "Freedom Ready Business",
+        name: "Freedom Ready Business — The R.E.A.D.Y. Framework",
         serviceType: "Exit planning and business value acceleration framework",
         provider: { "@id": "https://kurtisbaker.com/#kurt" },
         areaServed: { "@type": "Country", name: "United States" },
         description:
-          "The Freedom Ready Business framework helps small and middle-market business owners build significant value, owner independence, exit optionality, and personal freedom.",
+          "The R.E.A.D.Y. Framework (Revenue Resilience, Enterprise Value, Autonomy, De-Risked & Diversified, Your Exit) — built on a CEPA foundation and delivered through the APEX Method (Assess, Protect, Elevate, eXit-Ready) — helps small and middle-market business owners build a Freedom Ready Business.",
       },
     ],
   };

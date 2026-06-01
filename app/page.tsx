@@ -2,6 +2,7 @@ import { Nav } from "@/app/components/Nav";
 import { Hero } from "@/app/components/Hero";
 import { Problem } from "@/app/components/Problem";
 import { Framework } from "@/app/components/Framework";
+import { ApexMethod } from "@/app/components/ApexMethod";
 import { Audience } from "@/app/components/Audience";
 import { About } from "@/app/components/About";
 import { CTA } from "@/app/components/CTA";
@@ -15,6 +16,7 @@ export default function Home() {
         <Hero />
         <Problem />
         <Framework />
+        <ApexMethod />
         <Audience />
         <About />
         <CTA />
